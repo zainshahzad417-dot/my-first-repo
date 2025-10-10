@@ -83,3 +83,5 @@ Instructions:
 2. Take screenshots of the commands you run and the results (e.g., terminal output, GitHub  repository changes).
 3. Write a brief explanation of what you did for each scenario.
 4. Submit the screenshots and explanations as a PDF or document.
+Change made by collaborator
+Change made by owner
